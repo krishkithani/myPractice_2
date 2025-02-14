@@ -7,7 +7,7 @@ body {
   scroll-behavior:inherit
 }
 #thankyou {
-  font-size: 5px;
+  font-size: 30px;
   margin-bottom: 10px;
 }
 .rizz {
@@ -33,4 +33,9 @@ body {
   color: #ffe3e1;
   border: 2px solid #ff9494;
   box-shadow: 1px 1px 2px #ffe3e1;
+}
+
+#subText{
+  font-size: 10px;
+  margin-top: 20px;
 }
